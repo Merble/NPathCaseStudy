@@ -1,0 +1,20 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "final_dirtiness": 70
+    },
+    {
+      "id": 2,
+      "final_dirtiness": 72
+    },
+    {
+      "id": 3,
+      "final_dirtiness": 96
+    },
+    {
+      "id": 4,
+      "final_dirtiness": 82
+    }
+  ]
+}

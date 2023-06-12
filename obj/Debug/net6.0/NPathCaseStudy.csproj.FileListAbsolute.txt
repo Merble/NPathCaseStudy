@@ -1,0 +1,17 @@
+C:\Users\Ömer\Desktop\NPathCaseStudy\bin\Debug\net6.0\NPathCaseStudy.exe
+C:\Users\Ömer\Desktop\NPathCaseStudy\bin\Debug\net6.0\NPathCaseStudy.deps.json
+C:\Users\Ömer\Desktop\NPathCaseStudy\bin\Debug\net6.0\NPathCaseStudy.runtimeconfig.json
+C:\Users\Ömer\Desktop\NPathCaseStudy\bin\Debug\net6.0\NPathCaseStudy.dll
+C:\Users\Ömer\Desktop\NPathCaseStudy\bin\Debug\net6.0\ref\NPathCaseStudy.dll
+C:\Users\Ömer\Desktop\NPathCaseStudy\bin\Debug\net6.0\NPathCaseStudy.pdb
+C:\Users\Ömer\Desktop\NPathCaseStudy\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Ömer\Desktop\NPathCaseStudy\obj\Debug\net6.0\NPathCaseStudy.csproj.AssemblyReference.cache
+C:\Users\Ömer\Desktop\NPathCaseStudy\obj\Debug\net6.0\NPathCaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ömer\Desktop\NPathCaseStudy\obj\Debug\net6.0\NPathCaseStudy.AssemblyInfoInputs.cache
+C:\Users\Ömer\Desktop\NPathCaseStudy\obj\Debug\net6.0\NPathCaseStudy.AssemblyInfo.cs
+C:\Users\Ömer\Desktop\NPathCaseStudy\obj\Debug\net6.0\NPathCaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\Ömer\Desktop\NPathCaseStudy\obj\Debug\net6.0\NPathCaseStudy.csproj.CopyComplete
+C:\Users\Ömer\Desktop\NPathCaseStudy\obj\Debug\net6.0\NPathCaseStudy.dll
+C:\Users\Ömer\Desktop\NPathCaseStudy\obj\Debug\net6.0\ref\NPathCaseStudy.dll
+C:\Users\Ömer\Desktop\NPathCaseStudy\obj\Debug\net6.0\NPathCaseStudy.pdb
+C:\Users\Ömer\Desktop\NPathCaseStudy\obj\Debug\net6.0\NPathCaseStudy.genruntimeconfig.cache

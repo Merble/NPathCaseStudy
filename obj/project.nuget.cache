@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YtCXDnNwP5x4sEver/H9q4wQw+PX23KEsvof52UA7PYAUM4n8lqV/GRWbDTW+Ucsa2HHLpTbvNnmiC0X8TeEJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ömer\\Desktop\\NPathCaseStudy\\NPathCaseStudy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ömer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
